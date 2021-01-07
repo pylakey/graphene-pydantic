@@ -21,7 +21,7 @@ keywords = ["api", "graphql", "protocol", "rest", "relay", "graphene", "pydantic
 [tool.poetry.dependencies]
 python = "^3.6"
 # To keep things simple, we only support newer versions of Graphene & Pydantic
-graphene = ">=3.0b5"
+graphene = ">=2.0"
 pydantic = "~=1.7.0"
 
 [tool.poetry.dev-dependencies]
